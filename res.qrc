@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/backward.svg</file>
+        <file>img/folder.svg</file>
+        <file>img/forward.svg</file>
+        <file>img/options.svg</file>
+        <file>img/start.svg</file>
+        <file>img/suspended.svg</file>
+        <file>img/voice.svg</file>
+        <file>img/mute.svg</file>
+        <file>img/play.svg</file>
+    </qresource>
+</RCC>
